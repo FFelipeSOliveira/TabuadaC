@@ -1,9 +1,7 @@
 #include <stdio.h>
 int main(){
     //Tabuada 0 ao 10
-    int i;
-    int j;
-    int mult;
+    int i, j, mult;
     for (i = 0; i<=10; i++){
         printf("Tabuada do %i \n",i);
         for(j = 0; j<=10; j++){
